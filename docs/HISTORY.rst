@@ -1,7 +1,7 @@
 Changelog
 =========
 
-2.0b7 (unreleased)
+2.0b7 (2016-12-19)
 ------------------
 
 - Move translations to ``locales/`` to be able to add/modify
