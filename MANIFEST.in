@@ -1,4 +1,4 @@
-graft raptus
-graft docs/
-include *.cfg *.rst *.in
+recursive-include raptus *
+recursive-include docs *
+include *
 global-exclude *.pyc *.pyo
