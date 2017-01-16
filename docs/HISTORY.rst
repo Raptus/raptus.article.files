@@ -1,7 +1,7 @@
 Changelog
 =========
 
-2.0b8 (unreleased)
+2.0b8 (2017-01-16)
 ------------------
 
 - Nothing changed yet.
